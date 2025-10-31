@@ -3,4 +3,5 @@ Resolusi
 Belajar pemrograman
  - Memperkuat fundamental 
  - membuat project kecil
-    -membuat server
+   -membuat game
+   -membuat server
