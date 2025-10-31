@@ -4,3 +4,4 @@ Belajar pemrograman
  - Memperkuat fundamental 
  - membuat project kecil
    -membuat game
+   -membuat server
