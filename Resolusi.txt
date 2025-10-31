@@ -3,3 +3,4 @@ Resolusi
 Belajar pemrograman
  - Memperkuat fundamental 
  - membuat project kecil
+   -membuat game
